@@ -1,12 +1,12 @@
-.App{
+.App {
   text-align: center;
 }
 
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Roboto', sans-serif;
-  @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+  font-family: "Roboto", sans-serif;
+  @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 }
 .navbar {
   width: 100%;
@@ -30,20 +30,24 @@ body {
   margin: 10px;
 }
 
-.navbar .user{
+.navbar .user {
   display: flex;
   justify-content: center;
   align-items: center;
   margin-right: 50px;
 }
 
-.user p{
+.user p {
   font-size: 15px;
   margin-right: 10px;
   color: white;
 }
 
-.user img{
+.user img {
   font-size: 15px;
   border-radius: 50%;
+}
+
+.logout {
+  box-sizing: border-box;
 }
