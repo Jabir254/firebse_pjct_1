@@ -1,5 +1,3 @@
 export const Main = () => {
-    return ( 
-        <div>Home Page</div>
-    )
+  return <div>Home Page</div>;
 };
