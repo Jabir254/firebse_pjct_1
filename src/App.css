@@ -50,4 +50,7 @@ body {
 
 .logout {
   box-sizing: border-box;
+  border-radius: 15%;
+  margin-left: 25px;
+
 }
